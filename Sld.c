@@ -1,20 +1,3 @@
-
-Lohitha192110507
-/
-operating-systems
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-operating-systems/11. Single Level Directory.c
-@Lohitha192110507
-Lohitha192110507 Create 11. Single Level Directory.c
- 1 contributor
-37 lines (35 sloc)  658 Bytes
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
